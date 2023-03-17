@@ -1,3 +1,8 @@
 pages/index
     seria el app/ por defecto. Pero si le cambiamos el nombre, ya al ingresar a la ruta / no tendremos nada.
     
+migrar a typescript
+    creamos el archivo tsconfig.json en el root
+    npm install --save-dev typescript @types/react @types/node
+    pasamos archivos .js a .ts
+    

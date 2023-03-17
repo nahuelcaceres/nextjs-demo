@@ -1,5 +1,5 @@
-import { MainLayout } from '@/components/layouts/MainLayout'
 import Link from 'next/link'
+import { MainLayout } from '../components/layouts/MainLayout'
 
 // es obligatorio que exporte por default. El nombre del componente puede no ser igual que el nombre del archivo
 // algo que si es obligatorio en React.
