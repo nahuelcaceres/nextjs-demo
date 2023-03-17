@@ -1,0 +1,3 @@
+pages/index
+    seria el app/ por defecto. Pero si le cambiamos el nombre, ya al ingresar a la ruta / no tendremos nada.
+    
